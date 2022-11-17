@@ -10,5 +10,5 @@ Versions OOP (Object-oriented programming) vs Procedimental.
 - git clone https://github.com/aleongit/guerravaixells_aleon.git
 - cd guerravaixells_aleon
 - python guerravaixells_aleon.py
-- python guerravaixellsOOP_aleon.py (OOP)
+- python guerravaixellsoop_aleon.py (OOP)
 - play and enjoy ;)
