@@ -1,7 +1,7 @@
 #Aleix Leon
 #La Guerra de Vaixells
 
-from fguerra import *
+from guerravaixells_funcions import *
 
 #creem tauler
 tauler=crearTauler()
