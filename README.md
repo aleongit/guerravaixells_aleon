@@ -15,6 +15,7 @@ Versions OOP (Object-oriented programming) vs Procedimental.
 
 
 ## guerravaixells_aleon.py
+
 ```
   A B C D E F G H I J
 0 . . . . . . . . . .
@@ -79,7 +80,6 @@ Introdueix la columna A-J: C
       TOCAT I ENFONSAT
 ===========================
 
-
   A B C D E F G H I J
 0 ~ ~ ~ ~ ~ . . # # #
 1 ~ . . . ~ ~ . . . .
@@ -124,4 +124,54 @@ Introdueix la columna A-J: A
   _| |_  | |\  |  ____) | | |____  | | \ \     | |        | |____  | |__| |  _| |_  | |\  |
  |_____| |_| \_| |_____/  |______| |_|  \_\    |_|         \_____|  \____/  |_____| |_| \_|
 
+```
+
+## guerravaixellsoop_aleon.py
+
+```
+BENVINGUT !!!
+____________* JOC J1 *____________
+
+   0  1  2  3  4  5  6  7  8  9
+0  .  .  .  .  .  .  .  .  .  .
+1  .  .  .  .  .  .  .  .  .  .
+2  .  .  .  .  .  .  .  .  .  .
+3  .  .  .  .  .  .  .  .  .  .
+4  .  .  .  .  .  .  .  .  .  .
+5  .  .  .  .  .  .  .  .  .  .
+6  .  .  .  .  .  .  .  .  .  .
+7  .  .  .  .  .  .  .  .  .  .
+8  .  .  .  .  .  .  .  .  .  .
+9  .  .  .  .  .  .  .  .  .  .
+
+____________* JOC J1 *____________
+POR: 0/1 - CUI: 0/2 - FRA: 0/3 - PAT: 0/4
+
+JOCS => J1=>[0/10]
+MENÚ => [FC]Tirada | J[0-9]canvi joc | [+]nou joc | [i]idioma | [x]sortir
+
+TIRA! : 73
+TOCAT !!!
+ENFONSAT !!!
+____________* JOC J1 *____________
+
+   0  1  2  3  4  5  6  7  8  9
+0  ~  ~  ~  .  .  .  ~  ~  ~  ~
+1  ~  ~  ~  ~  ~  .  .  ~  #  ~
+2  .  #  #  #  #  ~  ~  .  #  .
+3  .  .  .  .  .  .  #  .  ~  .
+4  ~  .  ~  ~  ~  ~  #  ~  .  .
+5  ~  .  ~  #  ~  .  #  .  .  .
+6  ~  .  .  #  .  .  ~  ~  .  .
+7  #  ~  ~  #  .  .  .  ~  .  .
+8  ~  .  .  ~  .  .  .  #  #  .
+9  ~  #  ~  #  ~  .  .  .  .  ~
+
+____________* JOC J1 *____________
+POR: 1/1 - CUI: 2/2 - FRA: 2/3 - PAT: 3/4
+
+JOCS => J1=>[8/10]
+MENÚ => [FC]Tirada | J[0-9]canvi joc | [+]nou joc | [i]idioma | [x]sortir
+
+TIRA! :
 ```
